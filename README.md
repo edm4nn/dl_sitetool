@@ -7,6 +7,7 @@ by <h3>edm4nn</h3>
 Current release <mark>v1</mark>
 
 <h2>Overview</h2>
+
 This project is a simple Linux script that downloads a website locally into a folder and carries out web-scraping activities for the creation of specific topics. Furthermore, in the future I would like to implement this script with the download of only images from a site, to is currently still in the testing phase
 
 
