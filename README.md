@@ -14,6 +14,12 @@ Questo progetto consiste in uno script semplice per Linux che scarica in locale 
 
 <h2>Quick Start guide</h2>
 
+Download dl_sitetools.sh
+
+```bash
+#Cambia i permessi di un file
 chmod +x dl_sitetool.sh
 
+#Avvio del programma
 ./dl_sitetool.sh
+
